@@ -159,3 +159,43 @@ body{
  .beef{
     background-color: #b4b4b4;
 }
+
+.award{
+    display: flex;
+    /* flex-wrap: wrap; */
+    padding: 200px 20px 0 86px;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.award-icon{
+text-align: center;
+}
+
+.greek{
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.round{
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(36, 33, 33);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 ;
+}
+
+.bx{
+    color: #2e76f7;
+    font-size: 40px;
+}
+
+.jeans{
+    color: #b4b4b4b4;
+    font-size: 22px;
+}
