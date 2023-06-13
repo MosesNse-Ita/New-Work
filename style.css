@@ -207,3 +207,9 @@ text-align: center;
     color: #b4b4b4b4;
     font-size: 22px;
 }
+
+.wrap1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
