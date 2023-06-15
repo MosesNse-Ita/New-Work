@@ -411,7 +411,7 @@ text-align: center;
     font-size: 45px;
     color: #2e76f7;
 }
-@media screen  and (max-width: 1280px) {
+@media screen  and (max-width: 321px) {
     body{
         background-color: red;
     }
@@ -419,4 +419,5 @@ text-align: center;
     .nav__list {
        display: none; 
     }
+    
 }
